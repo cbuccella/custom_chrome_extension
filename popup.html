@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Prompt Library</title>
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+  <div class="container">
+    <h1>Prompt Library</h1>
+    <form id="promptForm">
+      <input type="text" id="promptName" placeholder="Prompt Name" required>
+      <input type="text" id="promptTool" placeholder="AI Tool" required>
+      <textarea id="promptText" placeholder="Enter your prompt here" required></textarea>
+      <button type="submit" id="savePrompt">Save Prompt</button>
+    </form>
+    <div class="search-container">
+      <input type="text" id="searchPrompts" placeholder="Search prompts...">
+    </div>
+    <ul id="promptList"></ul>
+  </div>
+  <script src="popup.js"></script>
+</body>
+</html>
