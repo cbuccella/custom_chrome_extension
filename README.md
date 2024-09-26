@@ -1,27 +1,27 @@
 # promptchromeextension
 📚 Prompt Library Chrome Extension
 
-🌟 Overview
+#🌟 Overview
 
 This Prompt Library is a Chrome extension born out of the need to efficiently manage and reuse prompts across various AI tools. If you've found yourself constantly rewriting the same effective prompts or struggling to remember your best conversation starters, Prompt Library is here to solve that problem!
 
 This extension provides a centralized place to store, organize, and quickly access your favorite and most effective prompts. Say goodbye to the tedious task of retyping prompts and hello to streamlined interactions with your AI tools.
 
-🎯 Problem Solved
+##🎯 Problem Solved
 
 - No more rewriting the same prompts across different AI platforms
 - Easy storage and retrieval of your most effective prompts
 - Quick access to your favorite conversation starters
 - Consistent prompt usage across various AI tools
 
-✨ Features
+##✨ Features
 
 📝 Create and Save Prompts
 - Easy-to-use popup interface
 - Fields for prompt name, AI tool, and prompt text
 - Quick save functionality
 
-🔍 Search and Organize
+###🔍 Search and Organize
 - Searchable list of saved prompts
 - Preview of the first 5 words of each prompt
 - Expandable full-text view
