@@ -97,5 +97,5 @@ This extension provides a centralized place to store, organize, and quickly acce
 ## 🤝 Feedback and Support
 We're constantly improving Prompt Library! If you have any suggestions or encounter any issues, please don't hesitate to reach out!
 
-Happy prompting! 🎉
+# Happy prompting! 🎉
 
